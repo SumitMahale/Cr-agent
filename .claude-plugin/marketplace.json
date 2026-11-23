@@ -6,8 +6,9 @@
   "plugins": [
     {
       "name": "cr-agent-plugin",
-      "source": "github",
-      "repo": "SumitMahale/Cr-agent"
+      "source": "./plugins/architecture/architect-helper",
+      "version": "0.2.0",
+      "description": "A manually invoked architecture planning agent for GitHub Copilot"
     }
   ]
 }

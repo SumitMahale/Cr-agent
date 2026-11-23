@@ -1,11 +1,10 @@
 # cr-agent-plugin
 
-Dummy agent plugin (placeholder structure).
+An architecture planning agent for GitHub Copilot.
 
 ## Structure
 
-- `agents/` – agent definitions
-- `com.github.copilot/agents/` – Copilot agent definitions
+- `com.github.copilot/agents/` – Copilot-specific agent definitions
 - `assets/` – static assets
 - `configs/` – configuration files
 - `demands/` – demand/requirement inputs

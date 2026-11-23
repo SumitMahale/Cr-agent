@@ -1,8 +1,10 @@
 {
   "extraKnownMarketplaces": {
     "Cr-agent": {
-      "source": "github",
-      "repo": "SumitMahale/Cr-agent"
+      "source": {
+        "source": "github",
+        "repo": "SumitMahale/Cr-agent"
+      }
     }
   },
   "enabledPlugins": {
