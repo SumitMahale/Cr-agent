@@ -1,0 +1,16 @@
+{
+  "name": "architect-helper",
+  "version": "0.1.0",
+  "description": "Dummy architect helper agent plugin",
+  "category": "architecture",
+  "directories": {
+    "agents": "agents",
+    "assets": "assets",
+    "configs": "configs",
+    "demands": "demands",
+    "prompts": "prompts",
+    "scripts": "scripts",
+    "skills": "skills",
+    "templates": "templates"
+  }
+}
