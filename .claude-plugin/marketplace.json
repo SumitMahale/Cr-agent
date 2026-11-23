@@ -1,0 +1,13 @@
+{
+  "name": "Cr-agent",
+  "owner": {
+    "name": "Sumit Mahale"
+  },
+  "plugins": [
+    {
+      "name": "cr-agent-plugin",
+      "source": "github",
+      "repo": "SumitMahale/Cr-agent"
+    }
+  ]
+}

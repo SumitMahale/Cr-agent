@@ -1,10 +1,11 @@
-# architect-helper
+# cr-agent-plugin
 
 Dummy agent plugin (placeholder structure).
 
 ## Structure
 
 - `agents/` – agent definitions
+- `com.github.copilot/agents/` – Copilot agent definitions
 - `assets/` – static assets
 - `configs/` – configuration files
 - `demands/` – demand/requirement inputs

@@ -1,16 +1,16 @@
 {
-  "name": "architect-helper",
-  "version": "0.1.0",
-  "description": "Dummy architect helper agent plugin",
-  "category": "architecture",
-  "directories": {
-    "agents": "agents",
-    "assets": "assets",
-    "configs": "configs",
-    "demands": "demands",
-    "prompts": "prompts",
-    "scripts": "scripts",
-    "skills": "skills",
-    "templates": "templates"
-  }
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cr-agent-plugin",
+  "version": "0.2.0",
+  "description": "A manually invoked architecture planning agent for GitHub Copilot",
+  "author": {
+    "name": "Sumit Mahale"
+  },
+  "repository": "https://github.com/SumitMahale/Cr-agent",
+  "keywords": [
+    "architecture",
+    "design",
+    "planning",
+    "copilot"
+  ]
 }
